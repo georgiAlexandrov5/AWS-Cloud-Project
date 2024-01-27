@@ -1,4 +1,9 @@
-Architecture:
+# AWS Cloud Project
+
+My take on hosting a static website on AWS using various services and integrating it with GitHub, GitHub Actions for CI/CD and Terraform.
+
+
+# Architecture:
 
 
 
@@ -7,7 +12,7 @@ Architecture:
 
 
 
-Services Used:
+# Services Used:
 
 - S3
 - AWS CloudFront
